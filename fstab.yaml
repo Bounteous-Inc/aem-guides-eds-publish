@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://dita-franklin-worker.adobeaem.workers.dev/your-user-name/your-repo-name/main/docs
+    url: https://author-p28206-e1206067.adobeaemcloud.com/bin/franklin.delivery/bounteous-inc/aem-guides-eds-publish/main/docs
     type: markup
 
